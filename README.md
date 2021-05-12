@@ -6,7 +6,7 @@ The toolset was developed for the collection database of [German Emigration Cent
 
 ## Components
 
-The toolset consists of an express.js based [CollectiveAccess Data Aggregator](https://github.com/culturetogoberlin/ca-aggregator) and an express.js based GraphQL API with MongoDB Atlas as database.
+The toolset consists of an express.js based [CollectiveAccess Data Aggregator](https://github.com/culturetogoberlin/ca-aggregator) and an express.js based [GraphQL API](https://github.com/culturetogoberlin/ca-monogdb-api) with MongoDB Atlas as database.
 
 ## Usage Scenarios
 
